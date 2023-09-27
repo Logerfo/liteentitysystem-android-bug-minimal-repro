@@ -1,0 +1,3 @@
+[submodule "LiteEntitySystem"]
+	path = LiteEntitySystem
+	url = git@github.com:RevenantX/LiteEntitySystem.git
